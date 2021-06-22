@@ -30,7 +30,7 @@ twitter_username: feonixrift
 github_username:  feonixrift
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
