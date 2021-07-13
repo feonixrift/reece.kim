@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Test frontmatter in home page.
