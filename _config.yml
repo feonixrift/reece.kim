@@ -30,7 +30,7 @@ twitter_username: feonixrift
 github_username:  feonixrift
 
 # Build settings
-theme: jekyll-theme-dinky
+#remote_theme: zivong/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
 
@@ -57,4 +57,4 @@ plugins:
 domain: feonixrift.github.io
 url: https://feonixrift.github.io
 baseurl: /reece.kim/
-
+# skin: sunrise
