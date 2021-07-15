@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Restarting my website"
+date:   2021-07-15 08:25:00 +0200
+categories: meta
+---
+I blew away my old blog format when I shifted the site back to github pages. The old content I still have, but I'm unconvinced on whether to directly republish it or try something different.
