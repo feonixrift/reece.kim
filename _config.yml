@@ -53,9 +53,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-domain: feonixrift.github.io
-url: https://feonixrift.github.io
-baseurl: /reece.kim/
+domain: reece.kim
+url: https://reece.kim/
+baseurl: /
 # skin: sunrise
 author: Kim Reece
 location: Göttingen, Germany
