@@ -28,8 +28,8 @@ twitter_username: feonixrift
 github_username:  feonixrift
 
 # Build settings
-# remote_theme: zivong/jekyll-theme-hamilton
-theme: minima
+remote_theme: zivong/jekyll-theme-hamilton
+# theme: minima
 plugins:
   - jekyll-feed
 
