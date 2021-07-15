@@ -57,3 +57,6 @@ domain: feonixrift.github.io
 url: https://feonixrift.github.io
 baseurl: /reece.kim/
 # skin: sunrise
+author: Kim Reece
+location: Göttingen, Germany
+paginate: 10
