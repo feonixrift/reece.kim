@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Test frontmatter in home page.
+A '90s style 'under construction' gif would be appropriate here, but I do not have one on hand.
