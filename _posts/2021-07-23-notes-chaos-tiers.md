@@ -7,7 +7,7 @@ categories: notekeeping
 
 ([Originally posted on twitter](https://twitter.com/feonixrift/status/1418462624216489984))
 
-I owed [dSebastien](https://twitter.com/dSebastien|@dSebastien) a thread on how I handle my notes. Unfortunately, it'll have to be 'how I handled my notes back when I was organized' as I'm between systems and in a mess atm, but maybe this will help me pull it back together.
+I owed [dSebastien](https://twitter.com/dSebastien@dSebastien) a thread on how I handle my notes. Unfortunately, it'll have to be 'how I handled my notes back when I was organized' as I'm between systems and in a mess atm, but maybe this will help me pull it back together.
 
 While I was trying to figure out how to diagram it, this popped up on my feed:
 
